@@ -25,28 +25,37 @@ Here are some ideas to get you started:
 <p>🥅 2024 Goals: Building Awesome Rust project, AI Bot, Rune markerplace.</p><br>
 
 ### 👋 My GitHub Stats
-<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
-  <a href="https://github.com/mercedesbenz00/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mercedesbenz00&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-  </a>  &nbsp;&nbsp;  &nbsp;&nbsp;
-  <img align='center' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" height="200">  &nbsp;&nbsp;  &nbsp;&nbsp;
-  <img align="center" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" height=200/>
-</div>
-<br>
-<table>
+<table style='width:100%;'>
     <tr>
-        <td>
+        <td style='width:50%;'>
+            <a href="https://github.com/mercedesbenz00/github-readme-stats">
+                <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mercedesbenz00&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+            </a>
+        </td>
+        <td style='width:50%;'>
+            <table style="width: 100%;">
+                <tr>
+                    <td><img align='center' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" height="200"></td>
+                    <td><img align="center" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" height=200/></td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <td style='width:50%;'>
             <img src="https://github-profile-trophy.vercel.app/?username=mercedesbenz00&row=3&column=4&no-bg=true"/>
         </td>
-        <td>
+        <td style='width:50%;'>
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=mercedesbenz00"/>
-        </td> 
+        </td>
     </tr>
 </table>
+
+
 <br>
 
 ### 👋 Toolset
-<table>
+<table style='width:100%;'>
     <tr>
         <td>Programming/Backend</td>
         <td>
@@ -180,14 +189,21 @@ Here are some ideas to get you started:
     </tr>
 </table>
 
-<a href="https://github.com/mercedesbenz00/convoychat">
-    <img height=600 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mercedesbenz00&layout=donut-vertical&langs_count=20&card_width=320" />
-</a>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
-</picture>
+<table>
+    <tr>
+        <td>
+            <a href="https://github.com/mercedesbenz00/convoychat">
+                <img height=600 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mercedesbenz00&layout=donut-vertical&langs_count=20&card_width=320" />
+            </a>
+        </td>
+        <td>
+            <picture>
+              <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+              <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+              <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+            </picture>
+        </td>
+    </tr>
+</table>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>As a Senior Engineer, I will strive to achieve higher goals and form a better community.</em>
