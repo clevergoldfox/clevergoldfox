@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <table style='width:100%;'>
     <tr>
         <td style='width:50%;'>
-            <a href="https://github.com/mercedesbenz00/github-readme-stats">
+            <a href="https://github.com/clevergoldfox/github-readme-stats">
                 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mercedesbenz00&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
             </a>
         </td>
