@@ -16,41 +16,13 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-snake-dark.svg" width="100%">
 <p align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Senior%20Blockchain%20developer;Senior%20Full-Stack%20developer;Over%2010%2B%20years%20of%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&font-weight: bold&width=440&height=45&color=b49c94&vCenter=true&size=26"/></a>
+    </a>
 </p>
 
 <p>✍ Focusing on Blockchain (Bitcoin, Solana, Ethereum, Ton, Tron, etc).</p>
 <p>🌱 Built several significant projects based on Bitcoin, Solana, Ton network nowadays.</p>
 <p>💻 We want to retain fast learners.</p>
 <p>🥅 2024 Goals: Building Awesome Rust project, AI Bot, Rune markerplace.</p><br>
-
-### 👋 My GitHub Stats
-<table style='width:100%;'>
-    <tr>
-        <td style='width:50%;'>
-            <a href="https://github.com/clevergoldfox/github-readme-stats">
-                <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mercedesbenz00&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-            </a>
-        </td>
-        <td style='width:50%;'>
-            <table style="width: 100%;">
-                <tr>
-                    <td><img align='center' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" height="200"></td>
-                    <td><img align="center" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" height=200/></td>
-                </tr>
-            </table>
-        </td>
-    </tr>
-    <tr>
-        <td style='width:50%;'>
-            <img src="https://github-profile-trophy.vercel.app/?username=mercedesbenz00&row=3&column=4&no-bg=true"/>
-        </td>
-        <td style='width:50%;'>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=mercedesbenz00"/>
-        </td>
-    </tr>
-</table>
-
 
 <br>
 
@@ -191,11 +163,6 @@ Here are some ideas to get you started:
 
 <table>
     <tr>
-        <td>
-            <a href="https://github.com/mercedesbenz00/convoychat">
-                <img height=600 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mercedesbenz00&layout=donut-vertical&langs_count=20&card_width=320" />
-            </a>
-        </td>
         <td>
             <picture>
               <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
