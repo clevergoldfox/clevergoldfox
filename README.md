@@ -123,7 +123,7 @@ Web開発・アプリ開発を中心に、ブロックチェーンやAI分野ま
 <br>
 
 ### 👋 ツールセット
-<table style='width:50%; margin:auto;'>
+<table style='width:100%; margin:auto;'>
     <tr>
         <td>プログラミング/バックエンド</td>
         <td>
